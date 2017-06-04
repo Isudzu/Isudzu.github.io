@@ -1,0 +1,18 @@
+{
+    "name": "wensleydale/sendpulse-rest-api-php",
+    "description": "Composer enabled version of the SendPulse REST client library",
+    "keywords": ["sendpulse"],
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gareth Davies",
+            "email": "hello@garethtdavies.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SendPulse\\": "src/"
+        }
+    }
+}

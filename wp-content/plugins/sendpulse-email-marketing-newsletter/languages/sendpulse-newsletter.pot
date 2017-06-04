@@ -1,0 +1,158 @@
+# Copyright (C) 2017 SendPulse Email Marketing Newsletter
+# This file is distributed under the same license as the SendPulse Email Marketing Newsletter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SendPulse Email Marketing Newsletter\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/class-sendpulse-newsletter-ajax.php:45
+msgid "Please, enter email"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-ajax.php:51
+msgid "Please, check email"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-ajax.php:68, inc/class-sendpulse-newsletter-users.php:50
+msgid "Something went wrong"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-ajax.php:72
+msgid "You subscribe successfully. Thanks!"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-ajax.php:96
+msgid "Please, select Address Book"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-ajax.php:100
+msgid "Please, select Users Role"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-ajax.php:105
+msgid "Import start"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-ajax.php:126
+msgid "Add user"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-ajax.php:132
+msgid "Something went wrong. Import unsuccessful"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-ajax.php:136
+msgid "Import finished"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:58
+msgid "Select default book and save options"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:101
+msgid "API Settings"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:105
+msgid "Import"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:109
+msgid "Visual appearance"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:124, inc/class-sendpulse-newsletter-settings.php:126
+msgid "Client ID"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:125, inc/class-sendpulse-newsletter-settings.php:134
+msgid "Get from https://login.sendpulse.com/settings/"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:133, inc/class-sendpulse-newsletter-settings.php:135
+msgid "Client Secret"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:153
+msgid "Default Address Book"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:154
+msgid "Address Book for new subscribers"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:164
+msgid "Show field \"Name\" in form?"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:165
+msgid "Optional field in subscribe form"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:172
+msgid "Subscribe user after register?"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:173
+msgid "Add all new Wordpress users to selected list"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:192
+msgid "Import to Address Book"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:193
+msgid "Address Book for Wordpress users import"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:200
+msgid "Import Users Group"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:201
+msgid "Users Group that will be imported"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:219
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:220
+msgid "Add custom CSS"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:283
+msgid "Start import"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:285
+msgid "Import Log"
+msgstr ""
+
+#: inc/class-senpulse-newsletter-requirement.php:56
+msgid "We've noticed that you're running an outdated version of PHP and plugin \"SendPulse Email Marketing Newsletter\" can't run."
+msgstr ""
+
+#: inc/class-senpulse-newsletter-requirement.php:56
+msgid "Ask you hosting <a href=\"https://wordpress.org/about/requirements/\">update PHP</a>."
+msgstr ""
+
+#: inc/class-senpulse-newsletter-shortcodes.php:36
+msgid "Email"
+msgstr ""
+
+#: inc/class-senpulse-newsletter-shortcodes.php:39
+msgid "Name"
+msgstr ""
+
+#: inc/class-senpulse-newsletter-shortcodes.php:42
+msgid "Subscribe"
+msgstr ""

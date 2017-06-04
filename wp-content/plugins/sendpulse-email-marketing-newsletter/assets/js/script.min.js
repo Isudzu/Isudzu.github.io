@@ -1,0 +1,1 @@
+!function(s){s(function(){"use strict";var a=s(".js-sp-form"),n=function(){a.on("submit",e)},e=function(n){n.preventDefault(),a.addClass("loading"),s.post(sp_params.ajax_url,a.serialize(),function(s){var n=s.data,e=s.success===!1?"error":"";a.removeClass("loading").find(".sp-form__message").text(n.msg).addClass("show "+e)})};n()})}(jQuery);

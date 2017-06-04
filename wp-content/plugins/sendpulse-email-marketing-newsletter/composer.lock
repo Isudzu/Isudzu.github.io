@@ -1,0 +1,102 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "7af6ffd9d3c606a0761e06012888d075",
+    "content-hash": "4a709170f06be6ee85d126c7a3a90450",
+    "packages": [
+        {
+            "name": "tareq1988/wordpress-settings-api-class",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tareq1988/wordpress-settings-api-class.git",
+                "reference": "d39a9ad738b2e2840aa02eff0e84fc58ade60aee"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tareq1988/wordpress-settings-api-class/zipball/d39a9ad738b2e2840aa02eff0e84fc58ade60aee",
+                "reference": "d39a9ad738b2e2840aa02eff0e84fc58ade60aee",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.4"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPLv2"
+            ],
+            "authors": [
+                {
+                    "name": "Tareq Hasan",
+                    "email": "tareq@wedevs.com",
+                    "homepage": "http://tareq.wedevs.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "WordPress settings API Abstraction Class",
+            "homepage": "https://github.com/tareq1988/wordpress-settings-api-class",
+            "keywords": [
+                "settings-api",
+                "wordpress",
+                "wp"
+            ],
+            "time": "2016-10-31 09:22:05"
+        },
+        {
+            "name": "wensleydale/sendpulse-rest-api-php",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/garethtdavies/sendpulse-rest-api-php.git",
+                "reference": "b9d3cb8d182bf20ff396e4521b53641e0d537657"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/garethtdavies/sendpulse-rest-api-php/zipball/b9d3cb8d182bf20ff396e4521b53641e0d537657",
+                "reference": "b9d3cb8d182bf20ff396e4521b53641e0d537657",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "SendPulse\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Gareth Davies",
+                    "email": "hello@garethtdavies.com"
+                }
+            ],
+            "description": "Composer enabled version of the SendPulse REST client library",
+            "keywords": [
+                "sendpulse"
+            ],
+            "time": "2016-02-06 05:15:39"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "tareq1988/wordpress-settings-api-class": 20,
+        "wensleydale/sendpulse-rest-api-php": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
